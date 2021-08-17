@@ -17,5 +17,5 @@ naive random oversampler, SMOTE, cluster centroids, and SMOTEEN.
 
 When comparing the results of the models in the resampling notebook, I found that they all had extremely similar results and all did a great job classifying high and low risk
 loans. Alternatively, when comparing the results of the ensamble classifiers, you'll see that the easy ensemble classifier greatly outperformed the balanced random forest 
-classifier. Although, in the end it does'nt really matter because even the easy ensemble classifier did a terrible job predicting the high risk loans which, in this case, are
+classifier. Although, in the end it doesn't really matter because even the easy ensemble classifier did a terrible job predicting the high risk loans which, in this case, are
 the most important.
